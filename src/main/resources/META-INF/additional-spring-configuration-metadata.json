@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "srping.mail.properties.mail.smtp.starttls.enable",
+  "type": "java.lang.String",
+  "description": "A description for 'srping.mail.properties.mail.smtp.starttls.enable'"
+}]}
